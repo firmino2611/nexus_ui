@@ -2,6 +2,8 @@ import 'package:flutter/widgets.dart';
 
 import './generated/s.dart';
 
+/// Class to handle localization.
+/// This class is used to handle the localization of the app.
 class NexusLocalizations {
   final Locale locale;
   late final AppLocalizations _localizations;
