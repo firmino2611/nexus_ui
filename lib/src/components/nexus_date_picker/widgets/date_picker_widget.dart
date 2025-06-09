@@ -105,9 +105,9 @@ class _DatePickerWidgetState extends State<DatePickerWidget> {
             ValueListenableBuilder<NexusDateTimeRange>(
               valueListenable: widget.controller.currentDateListener,
               builder: (context, date, child) {
-                if (widget.onChange != null) {
-                  widget.onChange!(date);
-                }
+                // if (widget.onChange != null) {
+                //   widget.onChange!(date);
+                // }
 
                 return Column(
                   crossAxisAlignment: CrossAxisAlignment.start,

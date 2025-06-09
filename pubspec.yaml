@@ -1,6 +1,6 @@
 name: nexus_ui
 description: "A UI Kit development for Flutter."
-version: 0.0.3
+version: 0.0.4
 repository: https://github.com/firmino2611/nexus_ui
 
 environment:

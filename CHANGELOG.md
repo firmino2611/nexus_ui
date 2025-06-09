@@ -1,3 +1,6 @@
+## 0.0.4
+  - CHORE (date picker): remove call onChange in starting build component
+
 ## 0.0.2
 
   - DOCS (date picker): Add more information about the date picker component.
